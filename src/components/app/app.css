@@ -1,0 +1,9 @@
+.todo-app {
+  margin: 2.5rem auto;
+  max-width: 450px;
+}
+
+.top-panel {
+  margin: 1rem 0;
+  display: flex;
+}
